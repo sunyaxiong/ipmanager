@@ -5,7 +5,7 @@ billiard==3.3.0.23
 celery==3.1.18
 certifi==2018.11.29
 chardet==3.0.4
-Django==2.1.4
+Django==2.2.13
 django-celery==3.2.2
 django-celery-results==1.0.4
 django-jsonfield==1.0.1
